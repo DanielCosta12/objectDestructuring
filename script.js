@@ -1,6 +1,6 @@
 const USER = {
     id:22,
-    displayName:"NE_DANZ", 
+    displayName:"DanielCosta12", 
     fullName:{
         firstName:"Daniel",
         lastName:"Costa",
